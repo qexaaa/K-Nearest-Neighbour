@@ -1,4 +1,4 @@
-# 🌸 Analisis Dataset Iris - Tugas Kelompok Pengantar Data Science
+# Analisis Dataset Iris - Tugas Kelompok Pengantar Data Science
 
 Repositori ini berisi notebook Jupyter yang dikerjakan sebagai tugas kelompok untuk mata kuliah **Pengantar Data Science**. Fokus proyek ini adalah eksplorasi dan analisis dataset klasik **Iris**, termasuk visualisasi, preprocessing, dan penerapan algoritma klasifikasi.
 
